@@ -1,1 +1,637 @@
 # CCJFun-Music-Repo
+---
+最近一次更新：2020.07.29
+
+曲目数：629
+---
+曲目列表：
+
+- Adele - Rolling In The Deep
+- Alan Walker - Faded
+- A-Lin - 月牙湾
+- Asher Monroe - Here With You
+- Avril Lavigne - Head Above Water
+- Avril Lavigne - Innocence
+- Barack Obama - Shape Of You
+- Berlin - Take My Breath Away
+- Beyond - 光辉岁月
+- Beyond - 海阔天空
+- Beyond - 真的爱你
+- BGM of CP - Attention
+- BGM of CP - BOY
+- BGM of CP - Change
+- BGM of CP - Done For Me
+- BGM of CP - Empty Cups
+- BGM of CP - How Long
+- BGM of CP - LA Girls
+- BGM of CP - Patient
+- BGM of CP - See You Again
+- BGM of CP - Slow It Down
+- BGM of CP - Somebody Told Me
+- BGM of CP - The Way I Am
+- BGM of CP - Through It All
+- BGM of CP - We Don't Talk Anymore
+- BGM of TS - 22
+- BGM of TS - All Too Well
+- BGM of TS - All You Had To Do Was Stay
+- BGM of TS - Back to December (Acoustic）
+- BGM of TS - Back to December
+- BGM of TS - Bad Blood
+- BGM of TS - Begin Again
+- BGM of TS - Better than Revenge
+- BGM of TS - Blank Space
+- BGM of TS - Clean
+- BGM of TS - Come Back... Be Here
+- BGM of TS - Dear John
+- BGM of TS - Enchanted
+- BGM of TS - Everything Has Changed
+- BGM of TS - Girl At Home
+- BGM of TS - Haunted (Acoustic)
+- BGM of TS - Haunted
+- BGM of TS - Holy Ground
+- BGM of TS - How You Get The Girl
+- BGM of TS - I Almost Do
+- BGM of TS - I Knew You Were Trouble
+- BGM of TS - I Know Places
+- BGM of TS - I Wish You Would
+- BGM of TS - If This Was a Movie
+- BGM of TS - Innocent
+- BGM of TS - Last Kiss
+- BGM of TS - Long Live
+- BGM of TS - ME!
+- BGM of TS - Mean
+- BGM of TS - Mine
+- BGM of TS - Never Grow Up
+- BGM of TS - New Romantics
+- BGM of TS - Ours
+- BGM of TS - Out of The Woods
+- BGM of TS - Red
+- BGM of TS - Sad Beautiful Tragic
+- BGM of TS - Shake It Off
+- BGM of TS - Sparks Fly
+- BGM of TS - Speak Now
+- BGM of TS - Starlight
+- BGM of TS - State Of Grace
+- BGM of TS - Stay Stay Stay
+- BGM of TS - Style
+- BGM of TS - Superman
+- BGM of TS - Sweeter Than Fiction
+- BGM of TS - The Last Time
+- BGM of TS - The Lucky One
+- BGM of TS - The Moment I Knew
+- BGM of TS - The Story of Us
+- BGM of TS - This Love
+- BGM of TS - Treacherous
+- BGM of TS - We Are Never Ever Getting Back Together
+- BGM of TS - Welcome To New York
+- BGM of TS - Wildest Dreams
+- BGM of TS - Wonderland
+- BGM of TS - You Are In Love
+- BGM of TS - You Need To Calm Down
+- Bonnie Tyler - Total Eclipse Of The Heart
+- Bruno Mars - Talking to the moon
+- BY2 - Because Of You
+- Carly Rae Jepsen - Call Me Maybe
+- Carly Rae Jepsen - Good Time (feat. Owl City)
+- Carly Rae Jepsen - I Really Like You
+- Celine Dion - Beauty And The Beast (feat. Peabo Bryson)
+- Celine Dion - Because You Loved Me
+- Celine Dion - I'm Your Angel (feat. R. Kelly)
+- Celine Dion - My Heart Will Go On
+- Celine Dion - The Power Of Love
+- Charlie Puth - 1984
+- Charlie Puth - As You Are (feat. Shy Carter)
+- Charlie Puth - Attention
+- Charlie Puth - BOY
+- Charlie Puth - Change (feat. James Taylor)
+- Charlie Puth - Cheating on You
+- Charlie Puth - Dangerously
+- Charlie Puth - Does It Feel
+- Charlie Puth - Done For Me (feat. Kehlani)
+- Charlie Puth - Easier (feat. 5 Seconds of Summer)
+- Charlie Puth - Empty Cups
+- Charlie Puth - Girlfriend
+- Charlie Puth - How Long
+- Charlie Puth - I Hope (feat. Gabby Barrett)
+- Charlie Puth - I Warned Myself
+- Charlie Puth - If You Leave Me Now (feat. Boyz II Men)
+- Charlie Puth - LA Girls
+- Charlie Puth - Left Right Left
+- Charlie Puth - Look At Me Now
+- Charlie Puth - Losing My Mind
+- Charlie Puth - Marvin Gaye (feat. Meghan Trainor)
+- Charlie Puth - Mother
+- Charlie Puth - My Gospel
+- Charlie Puth - Need You Now
+- Charlie Puth - One Call Away
+- Charlie Puth - Oops (feat. Little Mix)
+- Charlie Puth - Patient
+- Charlie Puth - River
+- Charlie Puth - See You Again (feat. Wiz Khalifa)
+- Charlie Puth - See You Again (Piano Demo Version)
+- Charlie Puth - Slow It Down
+- Charlie Puth - Sober (feat. G-Eazy)
+- Charlie Puth - Some Type Of Love
+- Charlie Puth - Somebody Told Me
+- Charlie Puth - Suffer
+- Charlie Puth - Summer Feelings (feat. Lennon Stella)
+- Charlie Puth - The Way I Am
+- Charlie Puth - Then There's You
+- Charlie Puth - Through It All
+- Charlie Puth - Up All Night
+- Charlie Puth - We Are Never Getting Back Together
+- Charlie Puth - We Don't Talk Anymore (feat. Selena Gomez)
+- Delacey - Dream It Possible
+- Demi Lovato - Let It Go
+- Dido - All You Want
+- Dido - Don't Think Of Me
+- Dido - Here With Me
+- Dido - Honestly OK
+- Dido - I'm No Angel
+- Dido - Take My Hand
+- Dido - Thankyou
+- Donald Trump - I Knew You Were Trouble
+- Donald Trump - Let It Go
+- Donald Trump - Señorita
+- Donald Trump - Shake It Off
+- Donald Trump - We Don't Talk Anymore
+- Donald Trump&Владимир Владимирович Путин - Señorita
+- Eagles - Love Will Keep Us Alive
+- Eagles - Take It Easy
+- Ed Sheeran - Shape of You
+- Elton John - Can You Feel the Love Tonight
+- Flo Rida - Whistle
+- Fun.  Janelle Monáe - We Are Young
+- G.E.M. 邓紫棋 - Fly Away
+- G.E.M. 邓紫棋 - Victoria
+- G.E.M. 邓紫棋 - Walk On Water
+- G.E.M. 邓紫棋 - 别勉强 (feat. 周兴哲)
+- G.E.M. 邓紫棋 - 差不多姑娘
+- G.E.M. 邓紫棋 - 倒数
+- G.E.M. 邓紫棋 - 多美丽
+- G.E.M. 邓紫棋 - 光年之外
+- G.E.M. 邓紫棋 - 好想好想你
+- G.E.M. 邓紫棋 - 很久以后
+- G.E.M. 邓紫棋 - 红蔷薇白玫瑰
+- G.E.M. 邓紫棋 - 后会无期
+- G.E.M. 邓紫棋 - 灰狼
+- G.E.M. 邓紫棋 - 句号
+- G.E.M. 邓紫棋 - 摩天动物园
+- G.E.M. 邓紫棋 - 你把我灌醉
+- G.E.M. 邓紫棋 - 泡沫
+- G.E.M. 邓紫棋 - 透明
+- G.E.M. 邓紫棋 - 我的秘密
+- G.E.M. 邓紫棋 - 我说了算
+- G.E.M. 邓紫棋 - 喜欢你
+- G.E.M. 邓紫棋 - 新的心跳
+- G.E.M. 邓紫棋 - 夜空中最亮的星
+- G.E.M. 邓紫棋 - 依然睡公主
+- G.E.M. 邓紫棋 - 萤火
+- G.E.M. 邓紫棋 - 再见
+- G-Eazy  Kehlani - Good Life
+- George Michael - Careless Whisper
+- Glenn Frey - The One You Love
+- gnash - I Hate U, I Love U
+- Idina Menzel - Into the Unknown
+- Idina Menzel - Let It Go
+- Idina Menzel - Show Yourself
+- Jeff Beal - House Of Cards Main Title Theme
+- Jim Croce - Time In A Bottle
+- Justin Bieber - As Long As You Love Me
+- Justin Bieber - Baby
+- Justin Bieber - Let Me Love You (feat. DJ Snake)
+- Justin Bieber - Love Yourself
+- Justin Bieber - Sorry
+- Kristen Bell - Home
+- Lady Gaga - The Cure
+- Leona Lewis - I See You
+- Luis Fonsi  Daddy Yankee - Despacito
+- Madilyn Bailey  Leroy Sanchez - Despacito
+- Mariah Carey - Daydream
+- Mariah Carey - Hero
+- Mariah Carey - Long Ago
+- Mariah Carey - Melt Away
+- Mariah Carey - Underneath The Stars
+- Mariah Carey - Without You
+- Maroon 5 - Animals
+- Maroon 5 - Moves Like Jagger (feat. Christina Aguilera)
+- Maroon 5 - Payphone (feat. Wiz Khalifa)
+- Maroon 5 - Sugar
+- Martin Garrix - Home (feat. Bonn)
+- Martin Garrix - So Far Away
+- Martin Garrix - There For You
+- Martin Garrix - These Are The Times
+- Michael Jackson - Black or White
+- Michael Jackson - Heal The World
+- Michael Jackson - We Are The World
+- Michael Jackson - You Are Not Alone
+- Mike Perry  Shy Martin - The Ocean
+- oXu  Travis Atreo - Flashlight
+- Phil Collins - Against All Odds
+- Phil Collins - Another Day In Paradise
+- Phil Collins - We Fly So Close
+- Phil Collins - You'll Be in My Heart
+- S.H.E - Super Star
+- S.H.E - 不想长大
+- S.H.E - 你曾是少年
+- S.H.E - 说你爱我
+- S.H.E - 五月天
+- S.H.E - 中国话
+- Sarah Brightman - Scarborough Fair
+- Selena Gomez - Wolves
+- Shakira - Try Everything
+- Simply Red - Stars
+- Skylar Grey - Everything I Need
+- Syatanka - 探索这玄奥
+- Taylor Swift - ...Ready For It？
+- Taylor Swift - 1989 Album Remix
+- Taylor Swift - 22
+- Taylor Swift - Afterglow
+- Taylor Swift - All Too Well
+- Taylor Swift - All Too Well×Delicate
+- Taylor Swift - All You Had To Do Was Stay
+- Taylor Swift - August
+- Taylor Swift - Babe (feat. Sugarland)
+- Taylor Swift - Back To December
+- Taylor Swift - Bad Blood
+- Taylor Swift - Battle
+- Taylor Swift - Beautiful Eyes
+- Taylor Swift - Beautiful Ghost
+- Taylor Swift - Begin Again
+- Taylor Swift - Better Off
+- Taylor Swift - Betty
+- Taylor Swift - Blank Space
+- Taylor Swift - Breathe (feat. Colbie Caillat)
+- Taylor Swift - Call It What You Want
+- Taylor Swift - Cardigan
+- Taylor Swift - Change
+- Taylor Swift - Christmas Tree Farm
+- Taylor Swift - Clean
+- Taylor Swift - Closest To A Cowboy
+- Taylor Swift - Cold As You Are
+- Taylor Swift - Come Back... Be Here
+- Taylor Swift - Come In With the Rain
+- Taylor Swift - Cornelia Street
+- Taylor Swift - Cornelia Street×All Too Well
+- Taylor Swift - Cruel Summer
+- Taylor Swift - Cruel Summer×Call It What You Want
+- Taylor Swift - Dancing With Our Hands Tied
+- Taylor Swift - Dark Blue Tennessee
+- Taylor Swift - Daylight
+- Taylor Swift - Dear John
+- Taylor Swift - Death By A Thousand Cuts
+- Taylor Swift - Delicate
+- Taylor Swift - Don't Blame Me
+- Taylor Swift - Dress
+- Taylor Swift - Enchanted
+- Taylor Swift - End Game (feat. Ed Sheeran & Future)
+- Taylor Swift - Epiphany
+- Taylor Swift - Everything Has Changed (feat. Ed Sheeran)
+- Taylor Swift - Exile (feat. Bon Iver)
+- Taylor Swift - False God
+- Taylor Swift - Fearless (Demo)
+- Taylor Swift - Fearless
+- Taylor Swift - Fifteen
+- Taylor Swift - Forever & Always (Piano Version)
+- Taylor Swift - Forever & Always
+- Taylor Swift - Getaway Car
+- Taylor Swift - Girl At Home
+- Taylor Swift - Gorgeous
+- Taylor Swift - Haunted (Acoustic)
+- Taylor Swift - Haunted
+- Taylor Swift - Hey Stephen
+- Taylor Swift - Hoax
+- Taylor Swift - Holy Ground
+- Taylor Swift - How You Get The Girl
+- Taylor Swift - I Almost Do
+- Taylor Swift - I Did Something Bad
+- Taylor Swift - I Don't Wanna Live Forever (feat. ZAYN)
+- Taylor Swift - I Forgot That You Existed
+- Taylor Swift - I Knew You Were Trouble
+- Taylor Swift - I Know Places
+- Taylor Swift - I Think He Knows
+- Taylor Swift - I Wish You Would
+- Taylor Swift - i'd lie
+- Taylor Swift - If This Was a Movie
+- Taylor Swift - Illicit Affairs
+- Taylor Swift - Innocent
+- Taylor Swift - Invisible String
+- Taylor Swift - Invisible
+- Taylor Swift - It's Nice To Have A Friend
+- Taylor Swift - Jump Then Fall
+- Taylor Swift - King of My Heart
+- Taylor Swift - Last Kiss
+- Taylor Swift - London Boy
+- Taylor Swift - London Boy×I Knew You Were Trouble
+- Taylor Swift - Long Live
+- Taylor Swift - Look What You Made Me Do
+- Taylor Swift - Love Story (US Pop Mix)
+- Taylor Swift - Love Story
+- Taylor Swift - Lover (Remix feat. Shawn Mendes)
+- Taylor Swift - Lover
+- Taylor Swift - Mad Woman
+- Taylor Swift - ME! (feat. Brendon Urie)
+- Taylor Swift - Mean
+- Taylor Swift - Mine (US Version)
+- Taylor Swift - Mine
+- Taylor Swift - Mirrorball
+- Taylor Swift - Miss Americana & The Heartbreak Prince
+- Taylor Swift - My Cure
+- Taylor Swift - My Tears Ricochet
+- Taylor Swift - Never Grow Up
+- Taylor Swift - New Romantics
+- Taylor Swift - New Year's Day
+- Taylor Swift - Only The Young
+- Taylor Swift - Our Song
+- Taylor Swift - Ours
+- Taylor Swift - Out Of The Woods
+- Taylor Swift - Paper Rings
+- Taylor Swift - Peace
+- Taylor Swift - Red (Demo)
+- Taylor Swift - Red
+- Taylor Swift - Sad Beautiful Tragic
+- Taylor Swift - Safe & Sound (feat. The Civil Wars)
+- Taylor Swift - September
+- Taylor Swift - Seven
+- Taylor Swift - Shake It Off
+- Taylor Swift - Should've Said No
+- Taylor Swift - So It Goes...
+- Taylor Swift - So It Goes...×Miss Americana & The Heartbreak Prince
+- Taylor Swift - Soon You'll Get Better (feat. Dixie Chicks)
+- Taylor Swift - Sparks Fly
+- Taylor Swift - Speak Now
+- Taylor Swift - Starlight
+- Taylor Swift - State Of Grace (Acoustic Version)
+- Taylor Swift - State Of Grace
+- Taylor Swift - Stay Stay Stay
+- Taylor Swift - Style
+- Taylor Swift - Style×Delicate
+- Taylor Swift - Style×Wonderland×Dancing With Our Hands Tied
+- Taylor Swift - Superman
+- Taylor Swift - SuperStar
+- Taylor Swift - Sweeter Than Fiction
+- Taylor Swift - Teardrops On My Guitar
+- Taylor Swift - Tell Me Why
+- Taylor Swift - The 1
+- Taylor Swift - The Archer
+- Taylor Swift - The Archer×Look What You Made Me Do
+- Taylor Swift - The Archer×Red
+- Taylor Swift - The Best Day
+- Taylor Swift - The Last Great American Dynasty
+- Taylor Swift - The Last Time (feat. Gary Lightbody)
+- Taylor Swift - The Lucky One
+- Taylor Swift - The Man
+- Taylor Swift - The Moment I Knew
+- Taylor Swift - The Other Side of the Door
+- Taylor Swift - The Story Of Us
+- Taylor Swift - The Way I Loved You
+- Taylor Swift - This Is Me Trying
+- Taylor Swift - This Is Why We Can't Have Nice Things
+- Taylor Swift - This Love
+- Taylor Swift - Tim McGraw
+- Taylor Swift - Treacherous
+- Taylor Swift - Untouchable
+- Taylor Swift - Wait For Me
+- Taylor Swift - We Are Never Ever Getting Back Together
+- Taylor Swift - Welcome To New York
+- Taylor Swift - White Horse
+- Taylor Swift - Wildest Dreams (Acoustic)
+- Taylor Swift - Wildest Dreams
+- Taylor Swift - Wildest Dreams×Afterglow
+- Taylor Swift - Wonderland
+- Taylor Swift - You Are In Love
+- Taylor Swift - You Belong With Me
+- Taylor Swift - You Need To Calm Down
+- Taylor Swift - You're Not Sorry
+- Taylor Swift&Alan Walker - I Knew You Were Trouble×Faded
+- Taylor Swift&Avril Lavigne - Songs Remix
+- Taylor Swift&Charlie Puth - Shake It Off×We Don't Talk Anymore
+- Taylor Swift&G.E.M. 邓紫棋 - Wildest Dreams×那一夜
+- Taylor Swift&Justin Bieber - I Knew You Were Trouble×As Long As You Love Me
+- Taylor Swift&Troye Sivan - You Are In Love×Strawberries Cigarettes
+- The Carpenters - (They Long to be) Close to You
+- The Carpenters - All You Get From Love Is A Love Song
+- The Carpenters - I Won't Last A Day Without You
+- The Carpenters - Jambalaya (On the Bayou)
+- The Carpenters - Please Mr. Postman
+- The Carpenters - Rainy Days And Mondays
+- The Carpenters - Ticket To Ride
+- The Carpenters - Top Of The World
+- The Carpenters - Yesterday Once More
+- The Chainsmokers - Closer (feat. Halsey)
+- The Chainsmokers - Don't Let Me Down (feat. Daya)
+- The Chainsmokers - Something Just Like This (feat. Coldplay)
+- The Chainsmokers - Takeaway (feat. Illenium)
+- The Weeknd  Kendrick Lamar - Pray For Me 
+- TheFatRat - Unity
+- Troye Sivan - Strawberries & Cigarettes
+- Troye Sivan - YOUTH
+- Various Artists - Into the Unknown（29种语言版）
+- Various Artists - Let It Go Multi-Language
+- Vicetone  Cozi Zuehlsdorff - Nevada
+- Westlife - My Love
+- Westlife - Seasons In The Sun
+- Westlife - You Raise Me Up
+- Whitney Houston - I Will Always Love You
+- Ylvis - The Fox
+- 阿桑 - 一直很安静
+- 蔡健雅  张震岳 - 思念是一种病
+- 蔡依林 - 爱情三十六计
+- 岑宁儿 - 追光者
+- 陈慧娴 - Lonely
+- 陈慧娴 - 归来吧
+- 陈慧娴 - 飘雪
+- 陈慧娴 - 千千阙歌
+- 陈慧娴 - 如果你知我苦衷
+- 陈伟霆 - 我门
+- 陈小春 - 独家记忆
+- 陈小春 - 我不是伟人
+- 陈奕迅 - K歌之王 (国)
+- 陈奕迅 - K歌之王
+- 陈奕迅 - Lonely Christmas
+- 陈奕迅 - 爱情转移
+- 陈奕迅 - 白玫瑰
+- 陈奕迅 - 不如不见
+- 陈奕迅 - 不如这样
+- 陈奕迅 - 不要说话
+- 陈奕迅 - 放
+- 陈奕迅 - 浮夸
+- 陈奕迅 - 富士山下
+- 陈奕迅 - 海胆
+- 陈奕迅 - 好久不见
+- 陈奕迅 - 红玫瑰
+- 陈奕迅 - 明年今日
+- 陈奕迅 - 你的背包
+- 陈奕迅 - 你给我听好
+- 陈奕迅 - 披风
+- 陈奕迅 - 葡萄成熟时
+- 陈奕迅 - 谁来剪月光
+- 陈奕迅 - 圣诞结
+- 陈奕迅 - 十年
+- 陈奕迅 - 淘汰
+- 陈奕迅 - 稳稳的幸福
+- 陈奕迅 - 夕阳无限好
+- 陈奕迅 - 兄妹
+- 陈奕迅 - 因为爱情 (feat. 王菲)
+- 陈奕迅 - 冤家
+- 陈奕迅 - 在这个世界相遇
+- 范玮琪 - 一个像夏天一个像秋天
+- 范晓萱 - 雪人
+- 费玉清 - 千里之外
+- 凤凰传奇 - 郎的诱惑
+- 郭静 - 下一个天亮
+- 何晟铭  向鹰 - 爱的供养
+- 胡66 - 空空如也
+- 胡夏 - 那些年
+- 胡彦斌 - 还魂门
+- 华语群星 - 北京欢迎你
+- 华语群星 - 北京祝福你
+- 黄仁烁  王若伊 - 凉凉
+- 黄晓明  邓超  佟大为 - 光阴的故事
+- 金贵晟 - 虹之间
+- 李荣浩 - 爸爸妈妈
+- 李荣浩 - 不将就
+- 李荣浩 - 李白
+- 李若溪 - 滂沱大雨里
+- 李玉刚 - 刚好遇见你
+- 李宗盛 - 山丘
+- 梁静茹 - 101
+- 梁静茹 - C'est La Vie
+- 梁静茹 - 分手快乐
+- 梁静茹 - 给未来的自己
+- 梁静茹 - 会呼吸的痛
+- 梁静茹 - 可惜不是你
+- 梁静茹 - 三寸日光
+- 梁静茹 - 原来你也唱过我的歌
+- 梁静茹 - 知多少
+- 林俊杰 - 背对背拥抱
+- 林俊杰 - 黑暗骑士
+- 林俊杰 - 可惜没如果
+- 林俊杰 - 那些你很冒险的梦
+- 林俊杰 - 她说
+- 林俊杰 - 我还想她
+- 林俊杰 - 小酒窝 (国语 feat. 蔡卓妍)
+- 林俊杰 - 小酒窝 (粤语 feat. 蔡卓妍)
+- 林俊杰 - 修炼爱情
+- 林忆莲 - From Now On
+- 林忆莲 - Hero
+- 林忆莲 - 爱上一个不回家的人
+- 林忆莲 - 不必在乎我是谁
+- 林忆莲 - 不许哭
+- 林忆莲 - 当爱已成往事
+- 林忆莲 - 放开手
+- 林忆莲 - 风筝
+- 林忆莲 - 铿锵玫瑰
+- 林忆莲 - 让我试
+- 林忆莲 - 伤痕
+- 林忆莲 - 听说爱情回来过
+- 林忆莲 - 为你我受冷风吹
+- 林忆莲 - 问
+- 林忆莲 - 我明白
+- 林忆莲 - 野风
+- 林忆莲 - 夜太黑
+- 林忆莲 - 影子情人
+- 林忆莲 - 诱惑的街
+- 林忆莲 - 愈爱愈美丽
+- 林忆莲 - 再见悲哀
+- 林忆莲 - 这些那些
+- 林忆莲 - 纸飞机
+- 林忆莲 - 至少还有你
+- 刘若英 - 成全
+- 刘若英 - 后来
+- 莫文蔚 - 如果沒有你
+- 莫文蔚 - 外面的世界
+- 莫文蔚 - 阴天
+- 那英 - 放爱一条生路
+- 那英 - 默
+- 那英 - 征服
+- 彭佳慧 - 相见恨晚
+- 彭羚 - 晨曦
+- 彭羚 - 囚鸟
+- 苏有朋 - 相见太晚
+- 苏运莹 - 野子
+- 孙燕姿 - Hey jude
+- 孙燕姿 - 逆光
+- 孙燕姿 - 天黑黑
+- 孙燕姿 - 我怀念的
+- 孙燕姿 - 遇见
+- 谭咏麟 - 创世记
+- 谭咏麟 - 独一无二
+- 谭咏麟 - 门前说
+- 谭咏麟 - 情在雪天
+- 田馥甄 - 你就不要想起我
+- 田馥甄 - 小幸运
+- 汪苏泷 - 一笑倾城
+- 汪苏泷 - 有点甜
+- 王菲 - 爱与痛的边缘
+- 王菲 - 偿还
+- 王菲 - 匆匆那年
+- 王菲 - 红豆
+- 王菲 - 容易受伤的女人(国)
+- 王菲 - 容易受伤的女人
+- 王菲 - 如风
+- 王菲 - 笑忘书
+- 王菲 - 致青春
+- 王力宏 - 爱 因为在心中
+- 王力宏 - 柴米油盐酱醋茶
+- 王力宏 - 你是我心内的一首歌
+- 王力宏 - 唯一
+- 王若琳 - Lemon Tree(国)
+- 王若琳 - Lemon Tree
+- 王晓天 - 荣耀
+- 王心凌 - 当你
+- 王心凌 - 第一次爱的人
+- 王心凌 - 睫毛弯弯
+- 王心凌 - 那年夏天宁静的海
+- 王心凌 - 这就是爱
+- 王铮亮 - 时间都去哪了
+- 吴克群 - 将军令
+- 吴克群 - 为你写诗
+- 萧敬腾 - 王妃
+- 徐佳莹 - 身骑白马
+- 徐若瑄 - 他她
+- 薛之谦 - 丑八怪
+- 薛之谦 - 我好像在哪见过你
+- 薛之谦 - 演员
+- 薛之谦 - 意外
+- 杨幂 - 爱的供养
+- 杨宗纬 - 一次就好
+- 于文文 - 体面
+- 袁娅维 - 说散就散
+- 张惠妹 - 如果你也听说
+- 张惠妹 - 听海
+- 张杰 - 这，就是爱
+- 张靓颖 - 画心Ⅱ
+- 张靓颖 - 我的梦
+- 张靓颖 - 终于等到你
+- 张学友 - Linda(国)
+- 张学友 - LINDA
+- 张学友 - 等你回来
+- 张学友 - 分手总要在雨天
+- 张学友 - 还是觉得你最好
+- 张学友 - 黑白画映
+- 张学友 - 今夜我属于爱情
+- 张学友 - 旧情绵绵
+- 张学友 - 来来回回
+- 张学友 - 吻别
+- 张学友 - 一路上有你
+- 张学友 - 一千个伤心的理由
+- 张学友 - 拥有
+- 张学友 - 这么近那么远
+- 赵咏华 - 相见太晚
+- 郑伊洋 - 月灯谣
+- 周传雄 - 花香
+- 周传雄 - 寂寞沙洲冷
+- 周传雄 - 男人海洋
+- 周传雄 - 青花
+- 周传雄 - 我难过
+- 周传雄 - 有没有一首歌会让你想起我
+- 周杰伦 - 爱在西元前
+- 周杰伦 - 稻香
+- 周杰伦 - 等你下课 (feat. 杨瑞代)
+- 周杰伦 - 告白气球
+- 周杰伦 - 可爱女人
+- 周杰伦 - 七里香
+- 周杰伦 - 青花瓷
+- 周杰伦 - 双截棍
+- 周杰伦 - 算什么男人
